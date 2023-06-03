@@ -1,5 +1,6 @@
-<center>![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Abel%20Park's%20Place&fontSize=60)</center>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Abel%20Park's%20Place&fontSize=60" />
+</p>
 <h2 align='center'>I'm Web Developer</h2>
 
 <p align="center">front-end based, aims to be full-stack</p>
