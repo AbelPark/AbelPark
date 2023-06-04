@@ -3,7 +3,7 @@
 </p>
 <h2 align='center'>I'm Web Developer</h2>
 
-<p align="center">front-end based, aims to be full-stack</p>
+<p align="center">base on front-end, aims to be full-stack</p>
 
 <h3 align="center">Main programming language</h3>
 <p align='center'>
